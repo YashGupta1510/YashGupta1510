@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gyash1510@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BaSOvBaov0Pu3s5OaLROW_Jlkbde_Iwx/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iE5T_b5w2OxfqN-ktQqUq5Xvydw_hdhX/view?usp=sharing)
 
 <p align="left">
 </p>
