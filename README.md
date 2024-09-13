@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Ecommerce Backend](https://github.com/YashGupta1510/Ecommerce-backend)
 
-- 🌱 I’m currently learning **TestNG and Rest Assured**
+- 🌱 I’m currently learning **React and NextJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YashGupta1510](https://github.com/YashGupta1510)
 
